@@ -1,0 +1,4 @@
+0.0 Creates test2
+5352.883327229818 test2.body(): receive 6, in (0,1), at time = 5352.883327229818
+10686.766654459636 test2.body(): receive 6, in (1,1), at time = 10686.766654459636
+11687.766654459636 test2.body(): exiting ...

@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\M\\OneDrive\\Bureau\\Github\\MatriceSim\\jars\\gridsim.jar",
+        "c:\\Users\\M\\OneDrive\\Bureau\\Github\\MatriceSim\\jars\\javatuples-1.2.jar",
+        "c:\\Users\\M\\OneDrive\\Bureau\\Github\\MatriceSim\\jars\\simjava2.jar"
+    ]
+}
