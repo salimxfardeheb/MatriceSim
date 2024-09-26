@@ -4,6 +4,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\Users\\M\\Desktop\\m1 2 sem\\gi\\GridSim\\jars\\gridsim.jar",
-        "c:\\Users\\M\\Desktop\\m1 2 sem\\gi\\GridSim\\jars\\simjava2.jar"
+        "c:\\Users\\M\\Desktop\\m1 2 sem\\gi\\GridSim\\jars\\simjava2.jar",
+        "jars/gridsim.jar",
+        "jars/javatuples-1.2.jar",
+        "jars/simjava2.jar"
     ]
 }
